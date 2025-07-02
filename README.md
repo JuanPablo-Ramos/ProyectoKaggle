@@ -8,3 +8,5 @@ _Daniela Vela Velasquez_ - 1007241907 - Ingenieria de sistemas
 _Jesus Estiven Torres Quintero_ - 1000759253 - Ingeniería de sistemas
 
 Link de video de la entrega #2 Preprocesado: https://youtu.be/U-C1kTvqicI
+
+Link de video de la entrega final: https://youtu.be/16r3F7AnfVo
